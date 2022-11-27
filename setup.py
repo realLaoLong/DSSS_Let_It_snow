@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-   name='Snowflake',
+   name='snowflake',
    version='1.0.0',
    author='Salomo Isheim',
    url='https://github.com/realLaoLong/DSSS_Let_It_snow.git',
