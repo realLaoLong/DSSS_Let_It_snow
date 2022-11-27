@@ -1,0 +1,3 @@
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+numpy==1.23.5
+wincertstore==0.2
