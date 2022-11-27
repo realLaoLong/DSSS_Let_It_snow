@@ -1,1 +1,1 @@
-# No initialization needed
+# No initialization code to be executed
